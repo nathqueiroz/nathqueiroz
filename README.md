@@ -4,6 +4,11 @@
 - 🌱 Estou estudando a Formação Front-end
 - 📫 Contate-me no email: contatonathaliaqrz@gmail.com
 - 😄 Pronomes: ela/dela
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nathqueiroz&count_private=true&show_icons=true&theme=radical" /> </p>
+
+
+<h2>Redes Sociais</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nath-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nath-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
